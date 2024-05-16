@@ -25,6 +25,9 @@ You can click the Preview link to take a look at your changes.
 这是一个<sub> TJM下标</sub>文本  
 这是一个<sup> T上标</sup>文本  
 ****
+4个*：分割线
+****
+文本内换行是：2*空格。 段落之间换行连续2个回撤。
 Text that is not a quote
 
 > Text that is a quote
