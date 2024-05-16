@@ -25,6 +25,11 @@ You can click the Preview link to take a look at your changes.
 这是一个<sub> TJM下标</sub>文本  
 这是一个<sup> T上标</sup>文本  
 ****
+Text that is not a quote
+
+> Text that is a quote
+
 引用的文本是缩进的，具有不同的字体颜色。  
 引用代码	Ctrl+ E  
+`sudo apt install git`
   号
