@@ -10,7 +10,12 @@
 rnQubic/rnQubic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-====================常用格式=============================
+====================常用格式=============================  
+[参考地址](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github)
+
+
+url:Ctrl+ K
+
 # 一级标题
 ## 二级
 ### 三级
