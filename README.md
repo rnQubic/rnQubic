@@ -33,3 +33,12 @@ Text that is not a quote
 引用代码	Ctrl+ E  
 `sudo apt install git`
   号
+
+
+要将代码或文本格式化为自己的不同块，请使用三个反引号(`)。
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
