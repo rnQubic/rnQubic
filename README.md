@@ -50,12 +50,23 @@ git status
 git add
 git commit
 ```
+
 ### 列表
 #### 无序列表。 -、* 或 + 来创建
+```
+- George Washington
+* John Adams
++ Thomas Jefferson
+```
 - tmp1
 - tmp2
 - tmp3
 #### 有序列表：请在每行前面添加一个编号。
+```
+1. James Madison
+2. James Monroe
+3. John Quincy Adams
+```
 1. 111
 2. 222
 3. 333
